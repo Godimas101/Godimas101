@@ -39,6 +39,8 @@ I use **Patreon more like a running project log than a simple tip jar**. It’s 
 
 If the repos show the finished parts, Patreon is where the in-between story lives.
 
+> Want to follow the fun? **[Follow my Patreon for free!](https://patreon.com/Godimas101)**
+
 ## 🧰 Toolbox
 
 <p align="left">
