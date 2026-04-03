@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://thecanadian.space"><img src="https://img.shields.io/badge/The%20Canadian%20Space-Live%20site-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="The Canadian Space" /></a>
+  <a href="https://thecanadian.space"><img src="https://img.shields.io/badge/The%20Canadian%20Space-space%20blog-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="The Canadian Space" /></a>
   <a href="https://steamcommunity.com/id/godimas/myworkshopfiles"><img src="https://img.shields.io/badge/Steam%20Workshop-Space%20Engineers-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Workshop" /></a>
   <a href="https://patreon.com/Godimas101"><img src="https://img.shields.io/badge/Patreon-Project%20log-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon project log" /></a>
-  <a href="https://www.linkedin.com/in/rustygear/"><img src="https://img.shields.io/badge/LinkedIn-rustygear-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rustygear/"><img src="https://img.shields.io/badge/LinkedIn-work%20stuff-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 > **"I build weirdly practical things: Space Engineers mods, AI-powered tools, and automations that save future-me from repetitive nonsense."**
@@ -65,8 +65,12 @@ If the repos show the finished parts, Patreon is where the in-between story live
 ## 📈 GitHub Pulse
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Godimas101&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=E5E7EB&icon_color=F59E0B&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godimas101&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=E5E7EB" alt="Top languages" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Godimas101&theme=github_dark" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Godimas101&theme=github_dark" alt="Top languages by repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Godimas101&theme=github_dark" alt="Most used commit language" />
 </p>
 
 ## ☕ Around the Web
@@ -74,7 +78,7 @@ If the repos show the finished parts, Patreon is where the in-between story live
 - **The Canadian Space** — [thecanadian.space](https://thecanadian.space)
 - **Steam Workshop** — [Space Engineers builds and releases](https://steamcommunity.com/id/godimas/myworkshopfiles)
 - **Patreon** — [project log, dev notes, and behind-the-scenes updates](https://patreon.com/Godimas101)
-- **LinkedIn** — [rustygear](https://www.linkedin.com/in/rustygear/)
+- **LinkedIn** — [work stuff](https://www.linkedin.com/in/rustygear/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&section=footer&height=120&color=0:0B1021,35:2563EB,65:7C3AED,100:F97316" />
