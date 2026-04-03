@@ -73,6 +73,12 @@ If the repos show the finished parts, Patreon is where the in-between story live
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Godimas101&theme=github_dark" alt="Most used commit language" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Godimas101/Godimas101/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
 ## ☕ Around the Web
 
 - **The Canadian Space** — [thecanadian.space](https://thecanadian.space)
