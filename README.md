@@ -31,7 +31,7 @@ ask_me_about:
 
 - **🔧 Space Engineers mods & tools** — converters, helper apps, workshop releases, and modding support tools that make the fiddly stuff less painful.
 - **🤖 AI-assisted utilities** — Claude workflows, desktop helpers, and automation experiments that turn repetitive busywork into something a lot more manageable.
-- **🇨🇦 The Canadian Space** — a space-focused publishing and automation stack built around articles, workflows, tooling, and community side projects.
+- **🚀 The Canadian Space** — a space-focused publishing and automation stack built around articles, workflows, tooling, and community side projects.
 
 ## 📝 Behind the Build
 
@@ -51,16 +51,26 @@ If the repos show the finished parts, Patreon is where the in-between story live
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-## 🌟 Featured Projects
+## 🌳 Repo Tree
 
-| Project | What it is | Link |
-|---|---|---|
-| `se-mods` | My main Space Engineers mod collection and compatibility work | [View repo](https://github.com/Godimas101/se-mods) |
-| `space-engineers-modders-tool-kit` | Download hub for modding tools, utilities, and helper apps | [View repo](https://github.com/Godimas101/space-engineers-modders-tool-kit) |
-| `se-claude-skill` | A Claude skill focused on Space Engineers scripting and modding help | [View repo](https://github.com/Godimas101/se-claude-skill) |
-| `tcs-workflows` | The workflow vault behind The Canadian Space publishing stack | [View repo](https://github.com/Godimas101/tcs-workflows) |
-| `claude-usage-monitor` | A desktop usage monitor for Claude Code sessions on Windows | [View repo](https://github.com/Godimas101/claude-usage-monitor) |
-| `automatic-weight-recording` | Wyze Scale → n8n → GitHub logging, because laziness can be productive | [View repo](https://github.com/Godimas101/automatic-weight-recording) |
+- **🔧 Space Engineers**
+  - [`se-mods`](https://github.com/Godimas101/se-mods) — main mod collection and compatibility work
+  - [`space-engineers-modders-tool-kit`](https://github.com/Godimas101/space-engineers-modders-tool-kit) — download hub for helper tools and utilities
+  - [`se-claude-skill`](https://github.com/Godimas101/se-claude-skill) — Space Engineers-focused Claude skill
+  - [`universal-image-converter`](https://github.com/Godimas101/universal-image-converter) — image conversion tooling for modders
+  - [`universal-audio-converter`](https://github.com/Godimas101/universal-audio-converter) — audio conversion tooling for modders
+
+- **🚀 The Canadian Space**
+  - [`tcs-tools`](https://github.com/Godimas101/tcs-tools) — site utilities and helper tools
+  - [`tcs-scripts`](https://github.com/Godimas101/tcs-scripts) — workflow scripts and API helpers
+  - [`tcs-images`](https://github.com/Godimas101/tcs-images) — shared image assets
+  - `tcs-workflows` — publishing and automation backbone *(private)*
+  - `tcs-webpage` — site codebase *(private)*
+  - `tcs-arcade` — experiments and side projects *(private)*
+
+- **🛠️ Tools**
+  - [`claude-usage-monitor`](https://github.com/Godimas101/claude-usage-monitor) — desktop session monitor for Claude Code
+  - [`automatic-weight-recording`](https://github.com/Godimas101/automatic-weight-recording) — Wyze Scale → n8n → GitHub logging
 
 ## ☕ Around the Web
 
@@ -68,10 +78,6 @@ If the repos show the finished parts, Patreon is where the in-between story live
 - **Steam Workshop** — [Space Engineers builds and releases](https://steamcommunity.com/id/godimas/myworkshopfiles)
 - **Patreon** — [project log, dev notes, and behind-the-scenes updates](https://patreon.com/Godimas101)
 - **LinkedIn** — [work stuff](https://www.linkedin.com/in/rustygear/)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&section=footer&height=120&color=0:0B1021,35:2563EB,65:7C3AED,100:F97316" />
-</p>
 
 *Thanks for stopping by — mind the welders and the automation gremlins.*
 
@@ -86,4 +92,8 @@ If the repos show the finished parts, Patreon is where the in-between story live
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Godimas101/Godimas101/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&section=footer&height=120&color=0:0B1021,35:2563EB,65:7C3AED,100:F97316" />
 </p>
