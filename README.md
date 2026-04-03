@@ -62,23 +62,6 @@ If the repos show the finished parts, Patreon is where the in-between story live
 | `claude-usage-monitor` | A desktop usage monitor for Claude Code sessions on Windows | [View repo](https://github.com/Godimas101/claude-usage-monitor) |
 | `automatic-weight-recording` | Wyze Scale → n8n → GitHub logging, because laziness can be productive | [View repo](https://github.com/Godimas101/automatic-weight-recording) |
 
-## 📈 GitHub Pulse
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Godimas101&theme=github_dark" alt="GitHub profile summary" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Godimas101&theme=github_dark" alt="Top languages by repo" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Godimas101&theme=github_dark" alt="Most used commit language" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Godimas101/Godimas101/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</p>
-
 ## ☕ Around the Web
 
 - **The Canadian Space** — [thecanadian.space](https://thecanadian.space)
@@ -91,3 +74,16 @@ If the repos show the finished parts, Patreon is where the in-between story live
 </p>
 
 *Thanks for stopping by — mind the welders and the automation gremlins.*
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Godimas101&theme=github_dark" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Godimas101&theme=github_dark" alt="Top languages by repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Godimas101&theme=github_dark" alt="Most used commit language" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Godimas101/Godimas101/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
