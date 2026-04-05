@@ -73,6 +73,7 @@ If the repos show the finished parts, Patreon is where the in-between story live
 - **🛠️ Tools**
   - [`claude-usage-monitor`](https://github.com/Godimas101/claude-usage-monitor) — desktop session monitor for Claude Code
   - [`automatic-weight-recording`](https://github.com/Godimas101/automatic-weight-recording) — Wyze Scale → n8n → GitHub logging
+  - [`table-to-chart`](https://github.com/Godimas101/table-to-chart) — markdown table → auto-committed SVG chart via GitHub Actions
 
 ## ☕ Around the Web
 
