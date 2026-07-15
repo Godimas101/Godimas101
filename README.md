@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://thecanadian.space"><img src="https://img.shields.io/badge/The%20Canadian%20Space-space%20blog-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="The Canadian Space" /></a>
-  <a href="https://steamcommunity.com/id/godimas/myworkshopfiles"><img src="https://img.shields.io/badge/Steam%20Workshop-Space%20Engineers-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Workshop" /></a>
+  <a href="https://steamcommunity.com/id/godimas/myworkshopfiles"><img src="https://img.shields.io/badge/Steam%20Workshop-SE%20%2B%20MW5-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Workshop" /></a>
   <a href="https://patreon.com/Godimas101"><img src="https://img.shields.io/badge/Patreon-Project%20log-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon project log" /></a>
   <a href="https://www.linkedin.com/in/rustygear/"><img src="https://img.shields.io/badge/LinkedIn-work%20stuff-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-> **"I build weirdly practical things: Space Engineers mods, AI-powered tools, and automations that save future-me from repetitive nonsense."**
+> **"I build weirdly practical things: game mods, AI-powered tools, and automations that save future-me from repetitive nonsense."**
 
 ## 👨‍🚀 About Me
 
@@ -18,24 +18,26 @@ name: Chris Carpenter
 alias: Godimas101
 based_in: Ontario, Canada
 building:
-  - Space Engineers mods, tools, and helper kits
+  - Space Engineers + MechWarrior 5 mods (published under gitpush-mod org)
+  - The Canadian Space — automated aerospace news, running 24/7
   - AI-assisted utilities and Claude skills
-  - The Canadian Space, an automated aerospace news project
+  - Personal tools I actually use every day
 ask_me_about:
-  - automation pipelines, n8n, and GitHub workflows
-  - Space Engineers modding and release tooling
+  - automation pipelines, n8n, GitHub Actions
+  - Space Engineers + MechWarrior 5 modding
   - practical ways to make AI genuinely useful
 ```
 
 ## 🚀 What I Build
 
-- **🔧 Space Engineers mods & tools** — converters, helper apps, workshop releases, and modding support tools that make the fiddly stuff less painful.
-- **🤖 AI-assisted utilities** — Claude workflows, desktop helpers, and automation experiments that turn repetitive busywork into something a lot more manageable.
-- **🚀 The Canadian Space** — a space-focused publishing and automation stack built around articles, workflows, tooling, and community side projects.
+- **🎮 Game mods** — Space Engineers and MechWarrior 5 mods published under the [**gitpush-mod**](https://github.com/gitpush-mod) org. Client-side by design when possible, save-safe by default, and thoroughly over-documented.
+- **🚀 The Canadian Space** — an automated aerospace newsroom. n8n orchestrates 39 workflows across 7 blog streams, an AI editor pass, cost tracking, and social publishing. Runs on a self-hosted VPS. Stories land at [thecanadian.space](https://thecanadian.space) 24/7. Repos under [**The-Canadian-Space**](https://github.com/The-Canadian-Space).
+- **🛠️ Standalone tools** — desktop widgets, image + audio converters, a markdown-table-to-SVG-chart action, a Wyze-scale-to-GitHub weight logger. All the tools I wanted to exist and couldn't find.
+- **🤖 AI-assisted utilities** — Claude Code skills, memory templates, and automation experiments turning repetitive busywork into something manageable.
 
 ## 📝 Behind the Build
 
-I use **Patreon more like a running project log than a simple tip jar**. It’s where I post longer-form updates, behind-the-scenes notes, progress writeups, and the occasional “here’s the weird thing I’m building now” update across mods, tools, and **The Canadian Space**.
+I use **Patreon more like a running project log than a simple tip jar**. Longer-form updates, behind-the-scenes notes, progress writeups, and the occasional "here's the weird thing I'm building now" update across mods, tools, and **The Canadian Space**.
 
 If the repos show the finished parts, Patreon is where the in-between story lives.
 
@@ -51,35 +53,53 @@ If the repos show the finished parts, Patreon is where the in-between story live
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Claude-DC7B4C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 🌳 Repo Tree
+## 🌳 Where the code lives
 
-- **🔧 Space Engineers**
-  - [`se-mods`](https://github.com/Godimas101/se-mods) — main mod collection and compatibility work
-  - [`space-engineers-modders-tool-kit`](https://github.com/Godimas101/space-engineers-modders-tool-kit) — download hub for helper tools and utilities
-  - [`se-claude-skill`](https://github.com/Godimas101/se-claude-skill) — Space Engineers-focused Claude skill
-  - [`universal-image-converter`](https://github.com/Godimas101/universal-image-converter) — image conversion tooling for modders
-  - [`universal-audio-converter`](https://github.com/Godimas101/universal-audio-converter) — audio conversion tooling for modders
+Split across three GitHub owners on purpose — personal ≠ mod ≠ TCS.
 
-- **🚀 The Canadian Space**
-  - [`tcs-tools`](https://github.com/Godimas101/tcs-tools) — site utilities and helper tools
-  - [`tcs-scripts`](https://github.com/Godimas101/tcs-scripts) — workflow scripts and API helpers
-  - [`tcs-images`](https://github.com/Godimas101/tcs-images) — shared image assets
-  - `tcs-workflows` — publishing and automation backbone *(private)*
-  - `tcs-webpage` — site codebase *(private)*
-  - `tcs-arcade` — experiments and side projects *(private)*
+### 🎮 [`gitpush-mod`](https://github.com/gitpush-mod) — game mods (SE + MW5)
 
-- **🛠️ Tools**
-  - [`claude-usage-monitor`](https://github.com/Godimas101/claude-usage-monitor) — desktop session monitor for Claude Code
-  - [`automatic-weight-recording`](https://github.com/Godimas101/automatic-weight-recording) — Wyze Scale → n8n → GitHub logging
-  - [`table-to-chart`](https://github.com/Godimas101/table-to-chart) — markdown table → auto-committed SVG chart via GitHub Actions
+- **Space Engineers** (published on Steam Workshop):
+  - [`se-infolcd-apex-update`](https://github.com/gitpush-mod/se-infolcd-apex-update) — flagship. Real-time ship + base data on Apex LCDs. Client-side. 1,335+ subscribers.
+  - [`se-infolcd-apex-advanced`](https://github.com/gitpush-mod/se-infolcd-apex-advanced) — sibling, expanded readouts.
+  - [`se-not-just-for-looks`](https://github.com/gitpush-mod/se-not-just-for-looks) + [`-additions`](https://github.com/gitpush-mod/se-not-just-for-looks-additions) + [`-without-weapons`](https://github.com/gitpush-mod/se-not-just-for-looks-without-weapons) — buffed-DLC-reskins mod family.
+  - [`se-tiered-build-and-repair`](https://github.com/gitpush-mod/se-tiered-build-and-repair) — 3-tier progression for Digi's Nanobot B&R system.
+  - [`se-sg-core-mods`](https://github.com/gitpush-mod/se-sg-core-mods) — Sturmgrenadier server stack (bundle of 5).
+  - [`se-mod-adjuster-mods`](https://github.com/gitpush-mod/se-mod-adjuster-mods) — SG-server balance patches (bundle of 10).
+
+- **MechWarrior 5**:
+  - [`mw5-zulibetterheroes-reforged`](https://github.com/gitpush-mod/mw5-zulibetterheroes-reforged) — community-maintained fork of Kurst's ZuluBetterHeroes.
+  - [`mw5-r13vergrrl`](https://github.com/gitpush-mod/mw5-r13vergrrl) — hero-pilot mod (scaffold — in planning).
+
+### 🚀 [`The-Canadian-Space`](https://github.com/The-Canadian-Space) — the newsroom
+
+- [`tcs-tools`](https://github.com/The-Canadian-Space/tcs-tools) — Python utilities (article scraper, cost calc)
+- [`tcs-scripts`](https://github.com/The-Canadian-Space/tcs-scripts) — n8n code nodes + workflow logic
+- [`tcs-public-wiki`](https://github.com/The-Canadian-Space/tcs-public-wiki) — public docs → [wiki.thecanadian.space](https://wiki.thecanadian.space)
+- Plus private repos for workflow backups, internal docs, archive, planned webpage rebuild, and **two arcade games in development** (`idle-launch` + `autodoom`).
+- [`Godimas101/tcs-images`](https://github.com/Godimas101/tcs-images) — article image assets (intentionally under Godimas101 for WordPress URL stability).
+
+### 🛠️ [`Godimas101`](https://github.com/Godimas101) — standalone tools + personal
+
+- [`universal-image-converter`](https://github.com/Godimas101/universal-image-converter) — image → DDS/LCD art for SE modders
+- [`universal-audio-converter`](https://github.com/Godimas101/universal-audio-converter) — audio conversion + editing + SBC generation for SE
+- [`space-engineers-modders-tool-kit`](https://github.com/Godimas101/space-engineers-modders-tool-kit) — download hub for the SE tools above + more
+- [`se-claude-skill`](https://github.com/Godimas101/se-claude-skill) — Space Engineers modding skill for Claude Code
+- [`claude-usage-monitor`](https://github.com/Godimas101/claude-usage-monitor) — Windows widget for Claude Code session tracking
+- [`automatic-weight-recording`](https://github.com/Godimas101/automatic-weight-recording) — Wyze scale → n8n → GitHub weight log
+- [`table-to-chart`](https://github.com/Godimas101/table-to-chart) — markdown table → auto-committed SVG chart via GitHub Actions
+- [`sedb-reloaded-again`](https://github.com/Godimas101/sedb-reloaded-again) — SE Discord bridge fork (watchdog fix for pause-death bug)
+- [`personal-projects`](https://github.com/Godimas101/personal-projects) — personal docs, style guides, patreon assets, home + health tracking
 
 ## ☕ Around the Web
 
-- **The Canadian Space** — [thecanadian.space](https://thecanadian.space)
-- **Steam Workshop** — [Space Engineers builds and releases](https://steamcommunity.com/id/godimas/myworkshopfiles)
-- **Patreon** — [project log, dev notes, and behind-the-scenes updates](https://patreon.com/Godimas101)
+- **The Canadian Space** — [thecanadian.space](https://thecanadian.space) + [wiki.thecanadian.space](https://wiki.thecanadian.space)
+- **Steam Workshop** — [SE + MW5 mod releases](https://steamcommunity.com/id/godimas/myworkshopfiles)
+- **Patreon** — [project log + behind-the-scenes](https://patreon.com/Godimas101)
 - **LinkedIn** — [work stuff](https://www.linkedin.com/in/rustygear/)
 
 *Thanks for stopping by — mind the welders and the automation gremlins.*
