@@ -105,17 +105,12 @@ Split across three GitHub owners on purpose — personal ≠ mod ≠ TCS.
 *Thanks for stopping by — mind the welders and the automation gremlins.*
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Godimas101&theme=github_dark" alt="GitHub profile summary" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Godimas101&theme=github_dark" alt="Top languages by repo" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Godimas101&theme=github_dark" alt="Most used commit language" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Godimas101/Godimas101/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
+
+<p align="center">
+  <img width="42%" src="https://streak-stats.demolab.com/?user=Godimas101&theme=tokyonight&hide_border=true&background=0B1021" alt="GitHub streak stats" />
+  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=Godimas101&theme=tokyo-night&hide_border=true&bg_color=0B1021&area=true" alt="Contribution activity graph" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&section=footer&height=120&color=0:0B1021,35:2563EB,65:7C3AED,100:F97316" />
