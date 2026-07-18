@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://godimas101.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-godimas101.github.io-C5B029?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://thecanadian.space"><img src="https://img.shields.io/badge/The%20Canadian%20Space-space%20blog-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="The Canadian Space" /></a>
   <a href="https://steamcommunity.com/id/godimas/myworkshopfiles"><img src="https://img.shields.io/badge/Steam%20Workshop-SE%20%2B%20MW5-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Workshop" /></a>
   <a href="https://patreon.com/Godimas101"><img src="https://img.shields.io/badge/Patreon-Project%20log-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon project log" /></a>
@@ -17,6 +18,7 @@
 name: Chris Carpenter
 alias: Godimas101
 based_in: Ontario, Canada
+portfolio: godimas101.github.io/portfolio
 building:
   - Space Engineers + MechWarrior 5 mods (published under gitpush-mod org)
   - The Canadian Space — automated aerospace news, running 24/7
