@@ -82,7 +82,7 @@ Split across three GitHub owners on purpose — personal ≠ mod ≠ TCS.
 - [`tcs-tools`](https://github.com/The-Canadian-Space/tcs-tools) — Python utilities (article scraper, cost calc)
 - [`tcs-scripts`](https://github.com/The-Canadian-Space/tcs-scripts) — n8n code nodes + workflow logic
 - [`tcs-public-wiki`](https://github.com/The-Canadian-Space/tcs-public-wiki) — public docs → [wiki.thecanadian.space](https://wiki.thecanadian.space)
-- Plus private repos for workflow backups, internal docs, archive, planned webpage rebuild, and **two arcade games in development** (`idle-launch` + `autodoom`).
+- Plus private repos for workflow backups, internal docs, archive, planned webpage rebuild, a **Discord community hub** in planning (`tcs-discord`), and **two arcade games in development** (`idle-launch` + `autodoom`).
 - [`The-Canadian-Space/tcs-images`](https://github.com/The-Canadian-Space/tcs-images) — article image assets used across published TCS posts. (Moved from Godimas101 → TCS org on 2026-07-16; GitHub redirects handle the WordPress-linked raw URLs.)
 
 ### 🛠️ [`Godimas101`](https://github.com/Godimas101) — standalone tools + personal
