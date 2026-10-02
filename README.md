@@ -111,8 +111,8 @@ Split across three GitHub owners on purpose — personal ≠ mod ≠ TCS.
 </p>
 
 <p align="center">
-  <img width="42%" src="https://streak-stats.demolab.com/?user=Godimas101&theme=tokyonight&hide_border=true&background=0B1021" alt="GitHub streak stats" />
-  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=Godimas101&theme=tokyo-night&hide_border=true&bg_color=0B1021&area=true" alt="Contribution activity graph" /></p>
+  <img src="https://streak-stats.demolab.com/?user=Godimas101&theme=tokyonight&hide_border=true&background=0B1021" alt="GitHub streak stats" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&section=footer&height=120&color=0:0B1021,35:2563EB,65:7C3AED,100:F97316" />
